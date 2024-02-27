@@ -1,7 +1,6 @@
 # algorithm-practice
 
 ![Solved Problems](https://img.shields.io/badge/Total_Problems-1-blue)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/mawakeb/algorithm-practice)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mawakeb/algorithm-practice?color=yellow)
 ![GitHub top language](https://img.shields.io/github/languages/top/mawakeb/algorithm-practice?color=brightgreen&logo=java)
 
